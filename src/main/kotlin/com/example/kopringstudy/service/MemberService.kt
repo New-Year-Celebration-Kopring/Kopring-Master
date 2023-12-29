@@ -1,7 +1,7 @@
 package com.example.kopringstudy.service
 
-import com.example.kopringstudy.dto.MemberDto
-import com.example.kopringstudy.entity.MemberEntity
+import com.example.kopringstudy.service.dto.MemberDto
+import com.example.kopringstudy.domain.MemberEntity
 import java.util.Optional
 
 interface MemberService {
